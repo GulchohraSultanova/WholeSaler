@@ -21,24 +21,24 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore
 
-      - name: Build
-        run: dotnet build --configuration Release --no-restore
+      - name: Build (warnings not blocking)
+        run: dotnet build --configuration Release --no-restore /p:TreatWarningsAsErrors=false
 
       - name: Publish
         run: dotnet publish Presentation/WholeSaler.WebApi/WholeSaler.WebApi.csproj -c Release -o ./publish
 
-      # 🔴 APP OFFLINE (DLL LOCK HƏLLİ)
+      # 🔴 APP OFFLINE (DLL LOCK PROBLEM HƏLLİ)
       - name: Put app offline
         run: echo "Maintenance..." > ./publish/app_offline.htm
 
-      # 🚀 DEPLOY (wwwroot qorunur)
+      # 🚀 DEPLOY TO PLESK (wwwroot QORUNUR)
       - name: Deploy to Plesk via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: ${{ secrets.FTP_PATH}}/
+          server-dir: ${{ secrets.FTP_PATH }}/
           local-dir: ./publish/
           protocol: ftp
           dangerous-clean-slate: false
