@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\6ab0aca8-fe01-4582-b018-ad1662342481.webp",
+      "PackagePath": "staticwebassets\\files\\category_icons\\6ab0aca8-fe01-4582-b018-ad1662342481.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\836dcc8b-599b-4aab-a132-8951c2948b84.webp",
+      "PackagePath": "staticwebassets\\files\\category_icons\\836dcc8b-599b-4aab-a132-8951c2948b84.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\9babe57a-3925-4e79-a7c5-bf87667e4e5d.webp",
+      "PackagePath": "staticwebassets\\files\\category_icons\\9babe57a-3925-4e79-a7c5-bf87667e4e5d.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\c281e86e-3b5c-4ec5-9af9-70124d32db2e.webp",
+      "PackagePath": "staticwebassets\\files\\category_icons\\c281e86e-3b5c-4ec5-9af9-70124d32db2e.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturer_images\\4ac2e15e-858d-44b7-b509-ae61efb8669e.webp",
+      "PackagePath": "staticwebassets\\files\\manufacturer_images\\4ac2e15e-858d-44b7-b509-ae61efb8669e.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturer_images\\f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.webp",
+      "PackagePath": "staticwebassets\\files\\manufacturer_images\\f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\05cb77aa-e910-41fe-8b40-d5ce6029f613.webp",
+      "PackagePath": "staticwebassets\\files\\manufacturers\\05cb77aa-e910-41fe-8b40-d5ce6029f613.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\35c7c16e-b61d-409c-9397-5f2c7b2516ad.webp",
+      "PackagePath": "staticwebassets\\files\\manufacturers\\35c7c16e-b61d-409c-9397-5f2c7b2516ad.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\7067abe4-0947-4d34-9baf-4fbf9030b45b.webp",
+      "PackagePath": "staticwebassets\\files\\manufacturers\\7067abe4-0947-4d34-9baf-4fbf9030b45b.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.webp",
+      "PackagePath": "staticwebassets\\files\\services\\70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\b13766ff-01a1-4190-aeaa-0d2024202d2a.webp",
+      "PackagePath": "staticwebassets\\files\\services\\b13766ff-01a1-4190-aeaa-0d2024202d2a.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\ba236350-376c-4bf2-a832-9c595ca29ad1.webp",
+      "PackagePath": "staticwebassets\\files\\services\\ba236350-376c-4bf2-a832-9c595ca29ad1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\1467585c-c81b-4549-91f3-d8dcd201cebf.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\1467585c-c81b-4549-91f3-d8dcd201cebf.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\3f81f743-3747-4018-b99c-101ea2a9841c.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\3f81f743-3747-4018-b99c-101ea2a9841c.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\487ee440-9d0f-4304-b921-6023a5c0e1e1.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\487ee440-9d0f-4304-b921-6023a5c0e1e1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\4bdaf518-0543-4138-bf23-806d69ae1a78.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\4bdaf518-0543-4138-bf23-806d69ae1a78.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\60034967-aa54-4ab6-a3b9-567692ebdc87.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\60034967-aa54-4ab6-a3b9-567692ebdc87.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\9cc68e7e-c473-44c1-b388-a4d2d85b7531.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\9cc68e7e-c473-44c1-b388-a4d2d85b7531.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\a97c82d0-c7c2-4866-a7fe-ef9ae1617085.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\a97c82d0-c7c2-4866-a7fe-ef9ae1617085.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\b28ea4d9-3f24-4feb-8631-c63af12f01b4.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\b28ea4d9-3f24-4feb-8631-c63af12f01b4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\c91d7df1-eeee-4772-a688-be16e295741b.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\c91d7df1-eeee-4772-a688-be16e295741b.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\d1a8f425-5d06-4d19-888e-d15fc103c455.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\d1a8f425-5d06-4d19-888e-d15fc103c455.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\e2e998d0-8a1d-4b28-af16-d36a2db41a02.webp",
+      "PackagePath": "staticwebassets\\files\\store_images\\e2e998d0-8a1d-4b28-af16-d36a2db41a02.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\22f55753-99d4-40c5-8200-780d45b050b1.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\22f55753-99d4-40c5-8200-780d45b050b1.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\6065d906-da16-49c9-bd42-4ccfebc9e5b8.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\6065d906-da16-49c9-bd42-4ccfebc9e5b8.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\83c0f78b-3a82-4e20-b5f9-2159c82554d5.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\83c0f78b-3a82-4e20-b5f9-2159c82554d5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\a2e64633-eb01-464b-b787-3308349ff04b.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\a2e64633-eb01-464b-b787-3308349ff04b.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\b661d23f-6641-4cdd-9129-3cc0c7427de5.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\b661d23f-6641-4cdd-9129-3cc0c7427de5.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\b6e723bc-56f0-487f-86e6-0490aae54917.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\b6e723bc-56f0-487f-86e6-0490aae54917.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\bb221fb7-1378-4edf-ae94-0b5ef9107b09.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\bb221fb7-1378-4edf-ae94-0b5ef9107b09.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\bf0ad7af-c008-433b-bba0-96e447741513.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\bf0ad7af-c008-433b-bba0-96e447741513.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\dc74abb3-48a4-47e2-bec7-0bba78a444a4.webp",
+      "PackagePath": "staticwebassets\\files\\stores\\dc74abb3-48a4-47e2-bec7-0bba78a444a4.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\wholesalers\\7ac63a93-ea07-405b-af36-92d8fe44463c.webp",
+      "PackagePath": "staticwebassets\\files\\wholesalers\\7ac63a93-ea07-405b-af36-92d8fe44463c.webp"
+    },
+    {
+      "Id": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\wholesalers\\7c1e0ced-0272-43f9-96ea-662d5248ec77.webp",
+      "PackagePath": "staticwebassets\\files\\wholesalers\\7c1e0ced-0272-43f9-96ea-662d5248ec77.webp"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.WholeSalers.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.WholeSalers.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.WholeSalers.WebApi.props",
+      "PackagePath": "build\\WholeSalers.WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WholeSalers.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WholeSalers.WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.WholeSalers.WebApi.props",
+      "PackagePath": "buildTransitive\\WholeSalers.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

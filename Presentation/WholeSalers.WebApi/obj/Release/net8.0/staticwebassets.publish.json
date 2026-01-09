@@ -1,0 +1,3936 @@
+{
+  "Version": 1,
+  "Hash": "v4EfmGRnInto6eSCSOv5Jkh1rdywiQ2EdBmLCyDivzs=",
+  "Source": "WholeSalers.WebApi",
+  "BasePath": "_content/WholeSalers.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WholeSalers.WebApi\\wwwroot",
+      "Source": "WholeSalers.WebApi",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\6ab0aca8-fe01-4582-b018-ad1662342481.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/category_icons/6ab0aca8-fe01-4582-b018-ad1662342481#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\category_icons\\6ab0aca8-fe01-4582-b018-ad1662342481.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\836dcc8b-599b-4aab-a132-8951c2948b84.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/category_icons/836dcc8b-599b-4aab-a132-8951c2948b84#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2iv8ot70w6",
+      "Integrity": "em2zTUc4MS9+z1fUUHuYKi71RjhyhDJGbA6PwSvR4p8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\category_icons\\836dcc8b-599b-4aab-a132-8951c2948b84.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\9babe57a-3925-4e79-a7c5-bf87667e4e5d.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/category_icons/9babe57a-3925-4e79-a7c5-bf87667e4e5d#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3t57005kmt",
+      "Integrity": "J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\category_icons\\9babe57a-3925-4e79-a7c5-bf87667e4e5d.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\c281e86e-3b5c-4ec5-9af9-70124d32db2e.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/category_icons/c281e86e-3b5c-4ec5-9af9-70124d32db2e#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3t57005kmt",
+      "Integrity": "J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\category_icons\\c281e86e-3b5c-4ec5-9af9-70124d32db2e.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturer_images\\4ac2e15e-858d-44b7-b509-ae61efb8669e.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/manufacturer_images/4ac2e15e-858d-44b7-b509-ae61efb8669e#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\manufacturer_images\\4ac2e15e-858d-44b7-b509-ae61efb8669e.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturer_images\\f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/manufacturer_images/f64e0619-bdaf-4b3b-9cb9-09b1094cadeb#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\manufacturer_images\\f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\05cb77aa-e910-41fe-8b40-d5ce6029f613.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/manufacturers/05cb77aa-e910-41fe-8b40-d5ce6029f613#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\manufacturers\\05cb77aa-e910-41fe-8b40-d5ce6029f613.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\35c7c16e-b61d-409c-9397-5f2c7b2516ad.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/manufacturers/35c7c16e-b61d-409c-9397-5f2c7b2516ad#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\manufacturers\\35c7c16e-b61d-409c-9397-5f2c7b2516ad.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\7067abe4-0947-4d34-9baf-4fbf9030b45b.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/manufacturers/7067abe4-0947-4d34-9baf-4fbf9030b45b#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\manufacturers\\7067abe4-0947-4d34-9baf-4fbf9030b45b.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/services/70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mg9q4jh77",
+      "Integrity": "o+lQ1w+yQkPaZy1WMx6xA18zizTdk8S33l0fjo1dVv8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\services\\70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\b13766ff-01a1-4190-aeaa-0d2024202d2a.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/services/b13766ff-01a1-4190-aeaa-0d2024202d2a#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\services\\b13766ff-01a1-4190-aeaa-0d2024202d2a.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\ba236350-376c-4bf2-a832-9c595ca29ad1.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/services/ba236350-376c-4bf2-a832-9c595ca29ad1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\services\\ba236350-376c-4bf2-a832-9c595ca29ad1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\1467585c-c81b-4549-91f3-d8dcd201cebf.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/1467585c-c81b-4549-91f3-d8dcd201cebf#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\1467585c-c81b-4549-91f3-d8dcd201cebf.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\3f81f743-3747-4018-b99c-101ea2a9841c.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/3f81f743-3747-4018-b99c-101ea2a9841c#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x3jnive8cu",
+      "Integrity": "fc7A4PdedhQEtWBen19MJ7V3cxw8la3NJTxoemP/wGI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\3f81f743-3747-4018-b99c-101ea2a9841c.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\487ee440-9d0f-4304-b921-6023a5c0e1e1.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/487ee440-9d0f-4304-b921-6023a5c0e1e1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\487ee440-9d0f-4304-b921-6023a5c0e1e1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\4bdaf518-0543-4138-bf23-806d69ae1a78.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/4bdaf518-0543-4138-bf23-806d69ae1a78#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\4bdaf518-0543-4138-bf23-806d69ae1a78.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\60034967-aa54-4ab6-a3b9-567692ebdc87.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/60034967-aa54-4ab6-a3b9-567692ebdc87#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3t57005kmt",
+      "Integrity": "J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\60034967-aa54-4ab6-a3b9-567692ebdc87.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\9cc68e7e-c473-44c1-b388-a4d2d85b7531.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/9cc68e7e-c473-44c1-b388-a4d2d85b7531#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zyas21vdxi",
+      "Integrity": "izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\9cc68e7e-c473-44c1-b388-a4d2d85b7531.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\a97c82d0-c7c2-4866-a7fe-ef9ae1617085.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/a97c82d0-c7c2-4866-a7fe-ef9ae1617085#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\a97c82d0-c7c2-4866-a7fe-ef9ae1617085.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/af72f6e8-c4ba-4f29-a021-5f6b8c1672a1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fs95qgq1nd",
+      "Integrity": "McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\b28ea4d9-3f24-4feb-8631-c63af12f01b4.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/b28ea4d9-3f24-4feb-8631-c63af12f01b4#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fs95qgq1nd",
+      "Integrity": "McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\b28ea4d9-3f24-4feb-8631-c63af12f01b4.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\c91d7df1-eeee-4772-a688-be16e295741b.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/c91d7df1-eeee-4772-a688-be16e295741b#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\c91d7df1-eeee-4772-a688-be16e295741b.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\d1a8f425-5d06-4d19-888e-d15fc103c455.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/d1a8f425-5d06-4d19-888e-d15fc103c455#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\d1a8f425-5d06-4d19-888e-d15fc103c455.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\e2e998d0-8a1d-4b28-af16-d36a2db41a02.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/store_images/e2e998d0-8a1d-4b28-af16-d36a2db41a02#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\store_images\\e2e998d0-8a1d-4b28-af16-d36a2db41a02.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\22f55753-99d4-40c5-8200-780d45b050b1.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/22f55753-99d4-40c5-8200-780d45b050b1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zyas21vdxi",
+      "Integrity": "izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\22f55753-99d4-40c5-8200-780d45b050b1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/4ad29e5b-0b4a-4264-bee2-5e8f27451f8f#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\6065d906-da16-49c9-bd42-4ccfebc9e5b8.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/6065d906-da16-49c9-bd42-4ccfebc9e5b8#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\6065d906-da16-49c9-bd42-4ccfebc9e5b8.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/7ef3bd67-4544-4a42-bd9c-f8ea184c30f5#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\83c0f78b-3a82-4e20-b5f9-2159c82554d5.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/83c0f78b-3a82-4e20-b5f9-2159c82554d5#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\83c0f78b-3a82-4e20-b5f9-2159c82554d5.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\a2e64633-eb01-464b-b787-3308349ff04b.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/a2e64633-eb01-464b-b787-3308349ff04b#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\a2e64633-eb01-464b-b787-3308349ff04b.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\b661d23f-6641-4cdd-9129-3cc0c7427de5.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/b661d23f-6641-4cdd-9129-3cc0c7427de5#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3t57005kmt",
+      "Integrity": "J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\b661d23f-6641-4cdd-9129-3cc0c7427de5.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\b6e723bc-56f0-487f-86e6-0490aae54917.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/b6e723bc-56f0-487f-86e6-0490aae54917#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8bvgiibntz",
+      "Integrity": "fLOQcjl0pDz9LaopzpvOdAGRuky17Ewi1sLLG+9EDpI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\b6e723bc-56f0-487f-86e6-0490aae54917.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\bb221fb7-1378-4edf-ae94-0b5ef9107b09.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/bb221fb7-1378-4edf-ae94-0b5ef9107b09#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3t57005kmt",
+      "Integrity": "J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\bb221fb7-1378-4edf-ae94-0b5ef9107b09.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\bf0ad7af-c008-433b-bba0-96e447741513.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/bf0ad7af-c008-433b-bba0-96e447741513#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xslsaczxcs",
+      "Integrity": "nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\bf0ad7af-c008-433b-bba0-96e447741513.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\dc74abb3-48a4-47e2-bec7-0bba78a444a4.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/stores/dc74abb3-48a4-47e2-bec7-0bba78a444a4#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vgcsvowyln",
+      "Integrity": "4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\stores\\dc74abb3-48a4-47e2-bec7-0bba78a444a4.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\wholesalers\\7ac63a93-ea07-405b-af36-92d8fe44463c.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/wholesalers/7ac63a93-ea07-405b-af36-92d8fe44463c#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3t57005kmt",
+      "Integrity": "J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\wholesalers\\7ac63a93-ea07-405b-af36-92d8fe44463c.webp"
+    },
+    {
+      "Identity": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\wholesalers\\7c1e0ced-0272-43f9-96ea-662d5248ec77.webp",
+      "SourceId": "WholeSalers.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\",
+      "BasePath": "_content/WholeSalers.WebApi",
+      "RelativePath": "files/wholesalers/7c1e0ced-0272-43f9-96ea-662d5248ec77#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3t57005kmt",
+      "Integrity": "J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\wholesalers\\7c1e0ced-0272-43f9-96ea-662d5248ec77.webp"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "files/category_icons/6ab0aca8-fe01-4582-b018-ad1662342481.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\6ab0aca8-fe01-4582-b018-ad1662342481.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:24:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/category_icons/6ab0aca8-fe01-4582-b018-ad1662342481.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\6ab0aca8-fe01-4582-b018-ad1662342481.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:24:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/category_icons/6ab0aca8-fe01-4582-b018-ad1662342481.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/category_icons/836dcc8b-599b-4aab-a132-8951c2948b84.2iv8ot70w6.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\836dcc8b-599b-4aab-a132-8951c2948b84.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"em2zTUc4MS9+z1fUUHuYKi71RjhyhDJGbA6PwSvR4p8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2iv8ot70w6"
+        },
+        {
+          "Name": "label",
+          "Value": "files/category_icons/836dcc8b-599b-4aab-a132-8951c2948b84.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-em2zTUc4MS9+z1fUUHuYKi71RjhyhDJGbA6PwSvR4p8="
+        }
+      ]
+    },
+    {
+      "Route": "files/category_icons/836dcc8b-599b-4aab-a132-8951c2948b84.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\836dcc8b-599b-4aab-a132-8951c2948b84.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"em2zTUc4MS9+z1fUUHuYKi71RjhyhDJGbA6PwSvR4p8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-em2zTUc4MS9+z1fUUHuYKi71RjhyhDJGbA6PwSvR4p8="
+        }
+      ]
+    },
+    {
+      "Route": "files/category_icons/9babe57a-3925-4e79-a7c5-bf87667e4e5d.3t57005kmt.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\9babe57a-3925-4e79-a7c5-bf87667e4e5d.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t57005kmt"
+        },
+        {
+          "Name": "label",
+          "Value": "files/category_icons/9babe57a-3925-4e79-a7c5-bf87667e4e5d.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/category_icons/9babe57a-3925-4e79-a7c5-bf87667e4e5d.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\9babe57a-3925-4e79-a7c5-bf87667e4e5d.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/category_icons/c281e86e-3b5c-4ec5-9af9-70124d32db2e.3t57005kmt.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\c281e86e-3b5c-4ec5-9af9-70124d32db2e.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t57005kmt"
+        },
+        {
+          "Name": "label",
+          "Value": "files/category_icons/c281e86e-3b5c-4ec5-9af9-70124d32db2e.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/category_icons/c281e86e-3b5c-4ec5-9af9-70124d32db2e.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\category_icons\\c281e86e-3b5c-4ec5-9af9-70124d32db2e.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturer_images/4ac2e15e-858d-44b7-b509-ae61efb8669e.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturer_images\\4ac2e15e-858d-44b7-b509-ae61efb8669e.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/manufacturer_images/4ac2e15e-858d-44b7-b509-ae61efb8669e.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturer_images/4ac2e15e-858d-44b7-b509-ae61efb8669e.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturer_images\\4ac2e15e-858d-44b7-b509-ae61efb8669e.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturer_images/f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturer_images\\f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/manufacturer_images/f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturer_images/f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturer_images\\f64e0619-bdaf-4b3b-9cb9-09b1094cadeb.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturers/05cb77aa-e910-41fe-8b40-d5ce6029f613.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\05cb77aa-e910-41fe-8b40-d5ce6029f613.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/manufacturers/05cb77aa-e910-41fe-8b40-d5ce6029f613.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturers/05cb77aa-e910-41fe-8b40-d5ce6029f613.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\05cb77aa-e910-41fe-8b40-d5ce6029f613.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturers/35c7c16e-b61d-409c-9397-5f2c7b2516ad.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\35c7c16e-b61d-409c-9397-5f2c7b2516ad.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/manufacturers/35c7c16e-b61d-409c-9397-5f2c7b2516ad.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturers/35c7c16e-b61d-409c-9397-5f2c7b2516ad.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\35c7c16e-b61d-409c-9397-5f2c7b2516ad.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturers/7067abe4-0947-4d34-9baf-4fbf9030b45b.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\7067abe4-0947-4d34-9baf-4fbf9030b45b.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/manufacturers/7067abe4-0947-4d34-9baf-4fbf9030b45b.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/manufacturers/7067abe4-0947-4d34-9baf-4fbf9030b45b.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\manufacturers\\7067abe4-0947-4d34-9baf-4fbf9030b45b.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/services/70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.5mg9q4jh77.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+lQ1w+yQkPaZy1WMx6xA18zizTdk8S33l0fjo1dVv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mg9q4jh77"
+        },
+        {
+          "Name": "label",
+          "Value": "files/services/70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+lQ1w+yQkPaZy1WMx6xA18zizTdk8S33l0fjo1dVv8="
+        }
+      ]
+    },
+    {
+      "Route": "files/services/70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\70112ed7-5fe2-4c4b-bffe-2eb4b6c2866c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+lQ1w+yQkPaZy1WMx6xA18zizTdk8S33l0fjo1dVv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+lQ1w+yQkPaZy1WMx6xA18zizTdk8S33l0fjo1dVv8="
+        }
+      ]
+    },
+    {
+      "Route": "files/services/b13766ff-01a1-4190-aeaa-0d2024202d2a.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\b13766ff-01a1-4190-aeaa-0d2024202d2a.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/services/b13766ff-01a1-4190-aeaa-0d2024202d2a.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/services/b13766ff-01a1-4190-aeaa-0d2024202d2a.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\b13766ff-01a1-4190-aeaa-0d2024202d2a.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/services/ba236350-376c-4bf2-a832-9c595ca29ad1.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\ba236350-376c-4bf2-a832-9c595ca29ad1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/services/ba236350-376c-4bf2-a832-9c595ca29ad1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/services/ba236350-376c-4bf2-a832-9c595ca29ad1.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\services\\ba236350-376c-4bf2-a832-9c595ca29ad1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/1467585c-c81b-4549-91f3-d8dcd201cebf.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\1467585c-c81b-4549-91f3-d8dcd201cebf.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/1467585c-c81b-4549-91f3-d8dcd201cebf.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\1467585c-c81b-4549-91f3-d8dcd201cebf.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/1467585c-c81b-4549-91f3-d8dcd201cebf.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/3f81f743-3747-4018-b99c-101ea2a9841c.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\3f81f743-3747-4018-b99c-101ea2a9841c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fc7A4PdedhQEtWBen19MJ7V3cxw8la3NJTxoemP/wGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fc7A4PdedhQEtWBen19MJ7V3cxw8la3NJTxoemP/wGI="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/3f81f743-3747-4018-b99c-101ea2a9841c.x3jnive8cu.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\3f81f743-3747-4018-b99c-101ea2a9841c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fc7A4PdedhQEtWBen19MJ7V3cxw8la3NJTxoemP/wGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x3jnive8cu"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/3f81f743-3747-4018-b99c-101ea2a9841c.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fc7A4PdedhQEtWBen19MJ7V3cxw8la3NJTxoemP/wGI="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/487ee440-9d0f-4304-b921-6023a5c0e1e1.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\487ee440-9d0f-4304-b921-6023a5c0e1e1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/487ee440-9d0f-4304-b921-6023a5c0e1e1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/487ee440-9d0f-4304-b921-6023a5c0e1e1.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\487ee440-9d0f-4304-b921-6023a5c0e1e1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/4bdaf518-0543-4138-bf23-806d69ae1a78.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\4bdaf518-0543-4138-bf23-806d69ae1a78.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/4bdaf518-0543-4138-bf23-806d69ae1a78.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/4bdaf518-0543-4138-bf23-806d69ae1a78.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\4bdaf518-0543-4138-bf23-806d69ae1a78.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/60034967-aa54-4ab6-a3b9-567692ebdc87.3t57005kmt.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\60034967-aa54-4ab6-a3b9-567692ebdc87.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t57005kmt"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/60034967-aa54-4ab6-a3b9-567692ebdc87.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/60034967-aa54-4ab6-a3b9-567692ebdc87.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\60034967-aa54-4ab6-a3b9-567692ebdc87.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\69fe1b01-e1e9-4d50-a98f-b8d5cc4fbbda.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/9cc68e7e-c473-44c1-b388-a4d2d85b7531.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\9cc68e7e-c473-44c1-b388-a4d2d85b7531.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/9cc68e7e-c473-44c1-b388-a4d2d85b7531.zyas21vdxi.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\9cc68e7e-c473-44c1-b388-a4d2d85b7531.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyas21vdxi"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/9cc68e7e-c473-44c1-b388-a4d2d85b7531.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/a97c82d0-c7c2-4866-a7fe-ef9ae1617085.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\a97c82d0-c7c2-4866-a7fe-ef9ae1617085.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:23:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/a97c82d0-c7c2-4866-a7fe-ef9ae1617085.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\a97c82d0-c7c2-4866-a7fe-ef9ae1617085.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:23:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/a97c82d0-c7c2-4866-a7fe-ef9ae1617085.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.fs95qgq1nd.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fs95qgq1nd"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\af72f6e8-c4ba-4f29-a021-5f6b8c1672a1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/b28ea4d9-3f24-4feb-8631-c63af12f01b4.fs95qgq1nd.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\b28ea4d9-3f24-4feb-8631-c63af12f01b4.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fs95qgq1nd"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/b28ea4d9-3f24-4feb-8631-c63af12f01b4.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/b28ea4d9-3f24-4feb-8631-c63af12f01b4.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\b28ea4d9-3f24-4feb-8631-c63af12f01b4.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-McX2S946+8O7uSCOcNluTwHPF80STuL2oATgPXgP6Xo="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/c91d7df1-eeee-4772-a688-be16e295741b.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\c91d7df1-eeee-4772-a688-be16e295741b.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/c91d7df1-eeee-4772-a688-be16e295741b.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\c91d7df1-eeee-4772-a688-be16e295741b.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/c91d7df1-eeee-4772-a688-be16e295741b.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/d1a8f425-5d06-4d19-888e-d15fc103c455.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\d1a8f425-5d06-4d19-888e-d15fc103c455.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/d1a8f425-5d06-4d19-888e-d15fc103c455.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\d1a8f425-5d06-4d19-888e-d15fc103c455.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/d1a8f425-5d06-4d19-888e-d15fc103c455.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/e2e998d0-8a1d-4b28-af16-d36a2db41a02.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\e2e998d0-8a1d-4b28-af16-d36a2db41a02.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/store_images/e2e998d0-8a1d-4b28-af16-d36a2db41a02.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/store_images/e2e998d0-8a1d-4b28-af16-d36a2db41a02.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\store_images\\e2e998d0-8a1d-4b28-af16-d36a2db41a02.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/22f55753-99d4-40c5-8200-780d45b050b1.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\22f55753-99d4-40c5-8200-780d45b050b1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/22f55753-99d4-40c5-8200-780d45b050b1.zyas21vdxi.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\22f55753-99d4-40c5-8200-780d45b050b1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyas21vdxi"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/22f55753-99d4-40c5-8200-780d45b050b1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-izx3JNf2/8UQC7t1V+DE6G4wkW7m7SkzV7RZ/s6leec="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:23:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:23:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/4ad29e5b-0b4a-4264-bee2-5e8f27451f8f.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/6065d906-da16-49c9-bd42-4ccfebc9e5b8.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\6065d906-da16-49c9-bd42-4ccfebc9e5b8.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/6065d906-da16-49c9-bd42-4ccfebc9e5b8.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\6065d906-da16-49c9-bd42-4ccfebc9e5b8.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/6065d906-da16-49c9-bd42-4ccfebc9e5b8.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:22:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/7ef3bd67-4544-4a42-bd9c-f8ea184c30f5.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/83c0f78b-3a82-4e20-b5f9-2159c82554d5.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\83c0f78b-3a82-4e20-b5f9-2159c82554d5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/83c0f78b-3a82-4e20-b5f9-2159c82554d5.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\83c0f78b-3a82-4e20-b5f9-2159c82554d5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/83c0f78b-3a82-4e20-b5f9-2159c82554d5.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/a2e64633-eb01-464b-b787-3308349ff04b.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\a2e64633-eb01-464b-b787-3308349ff04b.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/a2e64633-eb01-464b-b787-3308349ff04b.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/a2e64633-eb01-464b-b787-3308349ff04b.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\a2e64633-eb01-464b-b787-3308349ff04b.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/b661d23f-6641-4cdd-9129-3cc0c7427de5.3t57005kmt.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\b661d23f-6641-4cdd-9129-3cc0c7427de5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t57005kmt"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/b661d23f-6641-4cdd-9129-3cc0c7427de5.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/b661d23f-6641-4cdd-9129-3cc0c7427de5.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\b661d23f-6641-4cdd-9129-3cc0c7427de5.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/b6e723bc-56f0-487f-86e6-0490aae54917.8bvgiibntz.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\b6e723bc-56f0-487f-86e6-0490aae54917.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLOQcjl0pDz9LaopzpvOdAGRuky17Ewi1sLLG+9EDpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8bvgiibntz"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/b6e723bc-56f0-487f-86e6-0490aae54917.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLOQcjl0pDz9LaopzpvOdAGRuky17Ewi1sLLG+9EDpI="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/b6e723bc-56f0-487f-86e6-0490aae54917.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\b6e723bc-56f0-487f-86e6-0490aae54917.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLOQcjl0pDz9LaopzpvOdAGRuky17Ewi1sLLG+9EDpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLOQcjl0pDz9LaopzpvOdAGRuky17Ewi1sLLG+9EDpI="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/bb221fb7-1378-4edf-ae94-0b5ef9107b09.3t57005kmt.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\bb221fb7-1378-4edf-ae94-0b5ef9107b09.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t57005kmt"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/bb221fb7-1378-4edf-ae94-0b5ef9107b09.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/bb221fb7-1378-4edf-ae94-0b5ef9107b09.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\bb221fb7-1378-4edf-ae94-0b5ef9107b09.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/bf0ad7af-c008-433b-bba0-96e447741513.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\bf0ad7af-c008-433b-bba0-96e447741513.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:27:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/bf0ad7af-c008-433b-bba0-96e447741513.xslsaczxcs.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\bf0ad7af-c008-433b-bba0-96e447741513.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Jan 2026 06:27:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xslsaczxcs"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/bf0ad7af-c008-433b-bba0-96e447741513.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzgaSQ1X7kDO+mQDWZrQQHCTypDw4TVrYx9kWI3QMvw="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/dc74abb3-48a4-47e2-bec7-0bba78a444a4.vgcsvowyln.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\dc74abb3-48a4-47e2-bec7-0bba78a444a4.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgcsvowyln"
+        },
+        {
+          "Name": "label",
+          "Value": "files/stores/dc74abb3-48a4-47e2-bec7-0bba78a444a4.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/stores/dc74abb3-48a4-47e2-bec7-0bba78a444a4.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\stores\\dc74abb3-48a4-47e2-bec7-0bba78a444a4.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4XJqU4hAgLDwcZTdBR65kUDDtQE1ynZi27C+Z8JJMnc="
+        }
+      ]
+    },
+    {
+      "Route": "files/wholesalers/7ac63a93-ea07-405b-af36-92d8fe44463c.3t57005kmt.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\wholesalers\\7ac63a93-ea07-405b-af36-92d8fe44463c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t57005kmt"
+        },
+        {
+          "Name": "label",
+          "Value": "files/wholesalers/7ac63a93-ea07-405b-af36-92d8fe44463c.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/wholesalers/7ac63a93-ea07-405b-af36-92d8fe44463c.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\wholesalers\\7ac63a93-ea07-405b-af36-92d8fe44463c.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/wholesalers/7c1e0ced-0272-43f9-96ea-662d5248ec77.3t57005kmt.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\wholesalers\\7c1e0ced-0272-43f9-96ea-662d5248ec77.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3t57005kmt"
+        },
+        {
+          "Name": "label",
+          "Value": "files/wholesalers/7c1e0ced-0272-43f9-96ea-662d5248ec77.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    },
+    {
+      "Route": "files/wholesalers/7c1e0ced-0272-43f9-96ea-662d5248ec77.webp",
+      "AssetFile": "C:\\Users\\gulco\\OneDrive\\İş masası\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\wwwroot\\files\\wholesalers\\7c1e0ced-0272-43f9-96ea-662d5248ec77.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Dec 2025 10:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2nXOsg+a4h0s+WI315OGW5ZO+v8gnXpk6Ruuw8XetY="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Infrastructure.deps.json
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Infrastructure.runtimeconfig.json
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Infrastructure.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Infrastructure.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Application.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Domain.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Application.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Domain.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSal.5C96857D.Up2Date
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\refint\WholeSalers.Infrastructure.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.genruntimeconfig.cache
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\ref\WholeSalers.Infrastructure.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Infrastructure.deps.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Infrastructure.runtimeconfig.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Infrastructure.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Infrastructure.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Application.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Domain.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Application.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\bin\Debug\net8.0\WholeSalers.Domain.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.AssemblyInfo.cs
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.sourcelink.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSal.5C96857D.Up2Date
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\refint\WholeSalers.Infrastructure.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\WholeSalers.Infrastructure.genruntimeconfig.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Infrastructure\obj\Debug\net8.0\ref\WholeSalers.Infrastructure.dll

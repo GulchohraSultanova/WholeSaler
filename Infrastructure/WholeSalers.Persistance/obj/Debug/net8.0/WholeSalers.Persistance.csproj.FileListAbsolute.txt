@@ -1,0 +1,43 @@
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Persistance.deps.json
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Persistance.runtimeconfig.json
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Persistance.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Persistance.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Application.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Domain.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Infrastructure.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Application.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Infrastructure.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Domain.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.AssemblyInfo.cs
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSal.C77A2B80.Up2Date
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\refint\WholeSalers.Persistance.dll
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.pdb
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.genruntimeconfig.cache
+C:\Users\user\source\repos\WholeSalers\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\ref\WholeSalers.Persistance.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Persistance.deps.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Persistance.runtimeconfig.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Persistance.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Persistance.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Application.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Domain.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Infrastructure.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Application.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Infrastructure.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\bin\Debug\net8.0\WholeSalers.Domain.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.csproj.AssemblyReference.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.AssemblyInfoInputs.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.AssemblyInfo.cs
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.sourcelink.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSal.C77A2B80.Up2Date
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\refint\WholeSalers.Persistance.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\WholeSalers.Persistance.genruntimeconfig.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Infrastructure\WholeSalers.Persistance\obj\Debug\net8.0\ref\WholeSalers.Persistance.dll

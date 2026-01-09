@@ -1,0 +1,797 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC6BFEF-D798-4E45-87E0-B6AB9A9B9AA1}|Presentation\\WholeSalers.WebApi\\WholeSalers.WebApi.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\presentation\\wholesalers.webapi\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC6BFEF-D798-4E45-87E0-B6AB9A9B9AA1}|Presentation\\WholeSalers.WebApi\\WholeSalers.WebApi.csproj|solutionrelative:presentation\\wholesalers.webapi\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC6BFEF-D798-4E45-87E0-B6AB9A9B9AA1}|Presentation\\WholeSalers.WebApi\\WholeSalers.WebApi.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\presentation\\wholesalers.webapi\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC6BFEF-D798-4E45-87E0-B6AB9A9B9AA1}|Presentation\\WholeSalers.WebApi\\WholeSalers.WebApi.csproj|solutionrelative:presentation\\wholesalers.webapi\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC6BFEF-D798-4E45-87E0-B6AB9A9B9AA1}|Presentation\\WholeSalers.WebApi\\WholeSalers.WebApi.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\presentation\\wholesalers.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC6BFEF-D798-4E45-87E0-B6AB9A9B9AA1}|Presentation\\WholeSalers.WebApi\\WholeSalers.WebApi.csproj|solutionrelative:presentation\\wholesalers.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\abstracts\\services\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\abstracts\\services\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\slider\\createsliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\slider\\createsliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\repositories\\sliders\\sliderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\repositories\\sliders\\sliderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\repositories\\sliders\\sliderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\repositories\\sliders\\sliderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\abstracts\\repositories\\sliders\\isliderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\abstracts\\repositories\\sliders\\isliderwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\abstracts\\repositories\\sliders\\isliderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\abstracts\\repositories\\sliders\\isliderreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\abstracts\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\abstracts\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\slider\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\slider\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\slider\\updatesliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\slider\\updatesliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\services\\storeimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\services\\storeimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\store\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\store\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\store\\createstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\store\\createstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E5774-07FE-4553-8E41-8B280224659C}|Core\\WholeSalers.Domain\\WholeSalers.Domain.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.domain\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243E5774-07FE-4553-8E41-8B280224659C}|Core\\WholeSalers.Domain\\WholeSalers.Domain.csproj|solutionrelative:core\\wholesalers.domain\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\context\\wholesalersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\context\\wholesalersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E5774-07FE-4553-8E41-8B280224659C}|Core\\WholeSalers.Domain\\WholeSalers.Domain.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.domain\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243E5774-07FE-4553-8E41-8B280224659C}|Core\\WholeSalers.Domain\\WholeSalers.Domain.csproj|solutionrelative:core\\wholesalers.domain\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\services\\manufacturerimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\services\\manufacturerimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC6BFEF-D798-4E45-87E0-B6AB9A9B9AA1}|Presentation\\WholeSalers.WebApi\\WholeSalers.WebApi.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\presentation\\wholesalers.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AC6BFEF-D798-4E45-87E0-B6AB9A9B9AA1}|Presentation\\WholeSalers.WebApi\\WholeSalers.WebApi.csproj|solutionrelative:presentation\\wholesalers.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\globalappexception\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\globalappexception\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\abstracts\\services\\imanufacturerimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\abstracts\\services\\imanufacturerimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\migrations\\20251224082219_editmanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\migrations\\20251224082219_editmanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\profiles\\manufacturerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\profiles\\manufacturerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\profiles\\manufactureimageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\profiles\\manufactureimageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\profiles\\storeimageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\profiles\\storeimageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\manufacturer\\manufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\manufacturer\\manufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\manufacturer\\updatemanufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\manufacturer\\updatemanufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\manufacturer\\createmanufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\manufacturer\\createmanufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\store\\updatestoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\store\\updatestoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\storeimage\\createstoreimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\storeimage\\createstoreimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\abstracts\\services\\istoreimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\abstracts\\services\\istoreimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\repositories\\manufacturerimages\\manufacturerimagewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\repositories\\manufacturerimages\\manufacturerimagewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\repositories\\manufacturerimages\\manufacturerimagereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\repositories\\manufacturerimages\\manufacturerimagereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\abstracts\\repositories\\manufacturerimages\\imanufacturerimagewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\abstracts\\repositories\\manufacturerimages\\imanufacturerimagewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\abstracts\\repositories\\manufacturerimages\\imanufacturerimagereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\abstracts\\repositories\\manufacturerimages\\imanufacturerimagereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\concretes\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\concretes\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\core\\wholesalers.application\\dtos\\manufacturerimage\\manufacturerimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3D15E5-BD09-4A15-BAA4-F54F1481C67D}|Core\\WholeSalers.Application\\WholeSalers.Application.csproj|solutionrelative:core\\wholesalers.application\\dtos\\manufacturerimage\\manufacturerimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|c:\\users\\gulco\\onedrive\\\u0130\u015F masas\u0131\\whosolerapp\\wholesalerslast\\infrastructure\\wholesalers.persistance\\migrations\\20260107061209_createsliderandeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09B15F6-11D6-45BC-AA8D-8B101BD93029}|Infrastructure\\WholeSalers.Persistance\\WholeSalers.Persistance.csproj|solutionrelative:infrastructure\\wholesalers.persistance\\migrations\\20260107061209_createsliderandeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SliderWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\Sliders\\SliderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\Sliders\\SliderWriteRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\Sliders\\SliderWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\Sliders\\SliderWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:43:35.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\Sliders\\SliderReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\Sliders\\SliderReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\Sliders\\SliderReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\Sliders\\SliderReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:42:59.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISliderWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Repositories\\Sliders\\ISliderWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Abstracts\\Repositories\\Sliders\\ISliderWriteRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Repositories\\Sliders\\ISliderWriteRepository.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Abstracts\\Repositories\\Sliders\\ISliderWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:42:08.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISliderReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Repositories\\Sliders\\ISliderReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Abstracts\\Repositories\\Sliders\\ISliderReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Repositories\\Sliders\\ISliderReadRepository.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Abstracts\\Repositories\\Sliders\\ISliderReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:41:35.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\SliderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\SliderService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\SliderService.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\SliderService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:40:10.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Services\\ISliderService.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Abstracts\\Services\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Services\\ISliderService.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Abstracts\\Services\\ISliderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:39:17.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSliderDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Slider\\CreateSliderDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Slider\\CreateSliderDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Slider\\CreateSliderDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Slider\\CreateSliderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:33:14.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Abstracts\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Abstracts\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:15:38.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\WholeSalers.WebApi\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "Presentation\\WholeSalers.WebApi\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:05:14.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\WholeSalers.WebApi\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "Presentation\\WholeSalers.WebApi\\Controllers\\SlidersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wLwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:57:45.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\WholeSalers.WebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Presentation\\WholeSalers.WebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:57:55.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:35:02.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\ServiceRegistration.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:33:06.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:15:30.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SliderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\SliderProfile.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Profiles\\SliderProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\SliderProfile.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Profiles\\SliderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:35:16.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SliderDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Slider\\SliderDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Slider\\SliderDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Slider\\SliderDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Slider\\SliderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:34:32.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateSliderDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Slider\\UpdateSliderDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Slider\\UpdateSliderDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Slider\\UpdateSliderDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Slider\\UpdateSliderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:33:58.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Store\\StoreDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Store\\StoreDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Store\\StoreDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Store\\StoreDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:14:29.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20260107061209_CreateSliderAndEditCategory.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Migrations\\20260107061209_CreateSliderAndEditCategory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Migrations\\20260107061209_CreateSliderAndEditCategory.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Migrations\\20260107061209_CreateSliderAndEditCategory.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Migrations\\20260107061209_CreateSliderAndEditCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:12:10.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:11:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Domain\\Entities\\Store.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Domain\\Entities\\Store.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Domain\\Entities\\Store.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Domain\\Entities\\Store.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:11:26.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Domain\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Domain\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Domain\\Entities\\Slider.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Domain\\Entities\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:48:35.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WholeSalersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Context\\WholeSalersDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Context\\WholeSalersDbContext.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Context\\WholeSalersDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Context\\WholeSalersDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:26:54.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StoreImageService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\StoreImageService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\StoreImageService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\StoreImageService.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\StoreImageService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:35:38.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManufacturerService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ManufacturerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ManufacturerService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ManufacturerService.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ManufacturerService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwK8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:25:52.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\StoreService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\StoreService.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\StoreService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:26:40.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251224082219_EditManufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Migrations\\20251224082219_EditManufacturer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Migrations\\20251224082219_EditManufacturer.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Migrations\\20251224082219_EditManufacturer.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Migrations\\20251224082219_EditManufacturer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:27:07.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IManufacturerImageService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Services\\IManufacturerImageService.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Abstracts\\Services\\IManufacturerImageService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Services\\IManufacturerImageService.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Abstracts\\Services\\IManufacturerImageService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:34:06.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateStoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Store\\CreateStoreDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Store\\CreateStoreDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Store\\CreateStoreDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Store\\CreateStoreDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:40:16.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\WholeSalers.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Presentation\\WholeSalers.WebApi\\appsettings.json",
+              "RelativeToolTip": "Presentation\\WholeSalers.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T10:27:37.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManufactureImageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\ManufactureImageProfile.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Profiles\\ManufactureImageProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\ManufactureImageProfile.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Profiles\\ManufactureImageProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:41:35.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManufacturerImageService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ManufacturerImageService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ManufacturerImageService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ManufacturerImageService.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ManufacturerImageService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:35:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\GlobalAppException\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\GlobalAppException\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\GlobalAppException\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\GlobalAppException\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:16:53.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateStoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Store\\UpdateStoreDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Store\\UpdateStoreDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Store\\UpdateStoreDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Store\\UpdateStoreDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:55:21.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManufacturerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\ManufacturerProfile.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Profiles\\ManufacturerProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\ManufacturerProfile.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Profiles\\ManufacturerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:39:23.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StoreImageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\StoreImageProfile.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Profiles\\StoreImageProfile.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Profiles\\StoreImageProfile.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Profiles\\StoreImageProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:43:02.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateManufacturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Manufacturer\\UpdateManufacturerDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Manufacturer\\UpdateManufacturerDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Manufacturer\\UpdateManufacturerDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Manufacturer\\UpdateManufacturerDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:25:20.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateManufacturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Manufacturer\\CreateManufacturerDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Manufacturer\\CreateManufacturerDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Manufacturer\\CreateManufacturerDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Manufacturer\\CreateManufacturerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:23:23.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManufacturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Manufacturer\\ManufacturerDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\Manufacturer\\ManufacturerDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\Manufacturer\\ManufacturerDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\Manufacturer\\ManufacturerDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:23:35.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateStoreImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\StoreImage\\CreateStoreImageDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\StoreImage\\CreateStoreImageDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\StoreImage\\CreateStoreImageDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\StoreImage\\CreateStoreImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:40:21.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IStoreImageService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Services\\IStoreImageService.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Abstracts\\Services\\IStoreImageService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Services\\IStoreImageService.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Abstracts\\Services\\IStoreImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:33:38.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ManufacturerImageWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\ManufacturerImages\\ManufacturerImageWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\ManufacturerImages\\ManufacturerImageWriteRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\ManufacturerImages\\ManufacturerImageWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\ManufacturerImages\\ManufacturerImageWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:32:39.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManufacturerImageReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\ManufacturerImages\\ManufacturerImageReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\ManufacturerImages\\ManufacturerImageReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\ManufacturerImages\\ManufacturerImageReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Repositories\\ManufacturerImages\\ManufacturerImageReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:31:40.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IManufacturerImageWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Repositories\\ManufacturerImages\\IManufacturerImageWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Abstracts\\Repositories\\ManufacturerImages\\IManufacturerImageWriteRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Repositories\\ManufacturerImages\\IManufacturerImageWriteRepository.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Abstracts\\Repositories\\ManufacturerImages\\IManufacturerImageWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:30:58.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IManufacturerImageReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Repositories\\ManufacturerImages\\IManufacturerImageReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\Abstracts\\Repositories\\ManufacturerImages\\IManufacturerImageReadRepository.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\Abstracts\\Repositories\\ManufacturerImages\\IManufacturerImageReadRepository.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\Abstracts\\Repositories\\ManufacturerImages\\IManufacturerImageReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:30:08.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\AdminService.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:26:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ServiceService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ServiceService.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ServiceService.cs",
+              "RelativeToolTip": "Infrastructure\\WholeSalers.Persistance\\Concretes\\Services\\ServiceService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:26:31.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ManufacturerImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\ManufacturerImage\\ManufacturerImageDto.cs",
+              "RelativeDocumentMoniker": "Core\\WholeSalers.Application\\DTOs\\ManufacturerImage\\ManufacturerImageDto.cs",
+              "ToolTip": "C:\\Users\\gulco\\OneDrive\\\u0130\u015F masas\u0131\\WhosolerApp\\WholeSalersLast\\Core\\WholeSalers.Application\\DTOs\\ManufacturerImage\\ManufacturerImageDto.cs",
+              "RelativeToolTip": "Core\\WholeSalers.Application\\DTOs\\ManufacturerImage\\ManufacturerImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:24:03.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Application.deps.json
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Application.runtimeconfig.json
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Application.dll
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Application.pdb
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Domain.dll
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Domain.pdb
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSal.6D3F92C1.Up2Date
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.dll
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\refint\WholeSalers.Application.dll
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.pdb
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.genruntimeconfig.cache
+C:\Users\user\source\repos\WholeSalers\Core\WholeSalers.Application\obj\Release\net8.0\ref\WholeSalers.Application.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Application.deps.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Application.runtimeconfig.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Application.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Application.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Domain.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\bin\Release\net8.0\WholeSalers.Domain.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.csproj.AssemblyReference.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.AssemblyInfoInputs.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.AssemblyInfo.cs
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.csproj.CoreCompileInputs.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.sourcelink.json
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSal.6D3F92C1.Up2Date
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\refint\WholeSalers.Application.dll
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.pdb
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\WholeSalers.Application.genruntimeconfig.cache
+C:\Users\gulco\OneDrive\İş masası\WhosolerApp\WholeSalersLast\Core\WholeSalers.Application\obj\Release\net8.0\ref\WholeSalers.Application.dll
