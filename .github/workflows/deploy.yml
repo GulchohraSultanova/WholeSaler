@@ -1,44 +1,46 @@
-name: Deploy ASP.NET Core to Plesk
+name: Build & Deploy .NET API to Plesk
 
 on:
   push:
     branches:
       - master
-      - main
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout code
+      - name: Checkout source
         uses: actions/checkout@v4
 
-      - name: ⚙️ Setup .NET
+      - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
 
-      - name: 🧹 Restore
+      - name: Restore dependencies
         run: dotnet restore
 
-      - name: 🏗️ Build
+      - name: Build
         run: dotnet build --configuration Release --no-restore
 
-      - name: 🚀 Publish
-        run: |
-          dotnet publish Presentation/WholeSalers.WebApi/WholeSalers.WebApi.csproj \
-          -c Release \
-          -o publish
+      - name: Publish
+        run: dotnet publish Presentation/WholeSaler.WebApi/WholeSaler.WebApi.csproj -c Release -o ./publish
 
-      - name: 📤 Upload to Hosting (FTP)
+      # 🔴 APP OFFLINE (DLL LOCK HƏLLİ)
+      - name: Put app offline
+        run: echo "Maintenance..." > ./publish/app_offline.htm
+
+      # 🚀 DEPLOY (wwwroot qorunur)
+      - name: Deploy to Plesk via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: publish/
-          server-dir: ${{ secrets.FTP_PATH }}/
+          server-dir: ${{ secrets.FTP_PATH}}/
+          local-dir: ./publish/
+          protocol: ftp
           dangerous-clean-slate: false
           exclude: |
             **/wwwroot/**
